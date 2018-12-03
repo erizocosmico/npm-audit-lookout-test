@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/erizocosmico/npm-audit-lookout-test/issues"
   },
-  "homepage": "https://github.com/erizocosmico/npm-audit-lookout-test#readme"
+  "homepage": "https://github.com/erizocosmico/npm-audit-lookout-test#readme",
+  "dependencies": {
+    "tough-cookie": "<=2.2.0",
+    "tough-cookie-filestore": "0.0.1"
+  },
+  "devDependencies": {
+    "serve-handler": "<5.0.3"
+  }
 }
